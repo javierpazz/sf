@@ -1,3 +1,3 @@
 <?php
-	$base_url = "http://localhost/aos";
+	$base_url = "https://jpz-js.herokuapp.com/";
 ?>
